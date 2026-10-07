@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>fashionindi | Indian Fashion & Beauty Ideas</title>
+  <meta name="description" content="fashionindi shares daily outfit ideas, ethnic and western looks, makeup and skincare tips for Indian girls.">
+
+  <!-- Pinterest claim tag: niche er line ta replace korun -->
+  <meta name="p:domain_verify" content="PASTE_YOUR_CODE_HERE"/>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #fff5f7;
+      color: #333;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .card {
+      max-width: 420px;
+      background: #fff;
+      padding: 30px 24px;
+      border-radius: 16px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    }
+    h1 { margin: 0 0 8px; color: #e60023; }
+    p { line-height: 1.6; margin: 10px 0; }
+    a.btn {
+      display: inline-block;
+      margin-top: 14px;
+      padding: 10px 22px;
+      background: #e60023;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 24px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>fashionindi</h1>
+    <p>Indian Fashion & Beauty Ideas</p>
+    <p>Daily outfit ideas, ethnic and western looks, makeup and skincare tips for Indian girls. Budget fashion, college outfits, party looks and more.</p>
+    <a class="btn" href="https://www.pinterest.com/YOUR_USERNAME/">Follow me on Pinterest</a>
+    <p>Thanks for visiting! 💖</p>
+  </div>
+</body>
+</html>
